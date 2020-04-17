@@ -1,17 +1,17 @@
 {
    "JavaScriptQuiz": [     
         {
-          "id": 1,
+           "id": 1,
           "question_type": "MC",
-          "question": "What is the correct syntax for referring to an external script called xxx.js?",
+          "question": "Which is the modulus operator?",
           "options": {
-            "optiona": "<script src=xxx.js>",
-            "optionb": "<script name=xxx.js>",
-            "optionc": "<script href=xxx.js>",
-            "optiond": "<script value=xxx.js>"
+            "optiona": "--",
+            "optionb": "++",
+            "optionc": "**",
+            "optiond": "%"
           },
-          "correct_answer": "A",
-          "explanation": "<script src=xxx.js>"
+          "correct_answer": "D",
+          "explanation": "% is the modulus operator"
         },
         
         {
