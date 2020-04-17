@@ -1,0 +1,245 @@
+{
+   "JavaScriptQuiz": [     
+        {
+          "id": 1,
+          "question_type": "MC",
+          "question": "What is the correct syntax for referring to an external script called "xxx.js"?",
+          "options": {
+            "optiona": "<script src=xxx.js>",
+            "optionb": "<script name=xxx.js>",
+            "optionc": "<script href=xxx.js>",
+            "optiond": "<script value=xxx.js>"
+          },
+          "correct_answer": "A",
+          "explanation": "<script src=xxx.js>"
+        },
+        
+        {
+          "id": 2,
+          "question_type": "TF",
+          "question": "The external JavaScript file must contain the script tag.",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "The external JavaScript file does not need to contain the script tag."
+          
+        },
+        
+        {
+          "id":3,
+          "question_type": "Fill In",
+          "question": "How do you create a function??",
+          "correct_answer": "function myFunction()",
+          "explanation": "The way to create a function is : function myFuntion()"
+        },
+        
+        {
+          "id":4,
+          "question_type": "TF",
+          "question": "The correct way to write a conditional statement for executing some statements only if i is NOT equal to 5 is: if (i != 5) ",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "The correct way to write a conditional statement for executing some statements only if i is NOT equal to 5 is : if (i != 5) "
+        },
+        
+        {
+          "id":5,
+          "question_type": "TF",
+          "question": "JavaScript is case sensitive.",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "JavaScript is case sensitive."
+        },
+        
+        {
+          "id":6,
+          "question_type": "MC",
+          "question": "What is the correct syntax to declare a variable in JavaScript?",
+          "options": {
+            "optiona": "declare myVar",
+            "optionb": "var myVar",
+            "optionc": "declare myVar",
+            "optiond": "state myVar"
+          },
+          "correct_answer": "B",
+          "explanation": "The correct syntax to declare a variable in JavaScript is 'var myVar'"
+        },
+        
+        {
+          "id":7,
+          "question_type": "MC",
+          "question": "How many looping statements are there in JavaScript?",
+          "options": {
+            "optiona": "2",
+            "optionb": "3",
+            "optionc": "4",
+            "optiond": "5"
+          },
+          "correct_answer": "B",
+          "explanation": "The for loop, the while loop, and the do...while loop"
+        },
+        
+        {
+          "id":8,
+          "question_type": "TF",
+          "question": "% is a logical operator",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "&& is a logical operator"
+        },
+        
+        {
+          "id":9,
+          "question_type": "MC",
+          "question": "What is the correct file extension for JavaScript files?",
+          "options": {
+            "optiona": ".js",
+            "optionb": ".java",
+            "optionc": ".javascript",
+            "optiond": ".jscript"
+          },
+          "correct_answer": "A",
+          "explanation": "JavaScript files must end with the extension '.js'"
+        },
+        
+        {
+          "id":10,
+          "question_type": "MC",
+          "question": "How do you call a function named 'myFunction'?",
+          "options": {
+            "optiona": "myFunction()",
+            "optionb": "call myFunction()",
+            "optionc": "call function myFunction",
+            "optiond": "None of the above"
+          },
+          "correct_answer": "A",
+          "explanation": "The function 'myFunction' is called by typing 'myFunction()'"
+        },
+        
+        {
+          "id":11,
+          "question_type": "TF",
+          "question": "The proper way to define a function in JavaScript is: 'function myFunction():'",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "'function myFunction():' is the proper way to define a function in JavaScript"
+        },
+        
+        {
+          "id":12,
+          "question_type": "MC",
+          "question": "How do you write 'Hello World' in an alert box?",
+          "options": {
+            "optiona": "alertbox('Hello World')",
+            "optionb": "console('Hello World')",
+            "optionc": "alert('Hello World')",
+            "optiond": "consolelog('Hello World')"
+          },
+          "correct_answer": "C",
+          "explanation": "'alert('Hello World')' is used to write 'Hellow World' in an alert box."
+        },
+        
+        {
+          "id":13,
+          "question_type": "TF",
+          "question": "JavaScript is the same as Java.",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "B",
+          "explanation": "Java is an OOP language and JavaScript is an OOP scripting language"
+
+        },
+        
+        {
+          "id":14,
+          "question_type": "Fill In",
+          "question": "Alert(message), close() and reset() are JavaScript:",
+          "correct_answer": "Methods",
+          "explanation": "Methods is the correct answer"
+        },
+        
+        {
+          "id":15,
+          "question_type": "Fill In",
+          "question": "Is || an assignment operator?",
+          "correct_answer": "no",
+          "explanation": "|| is not an assignment operator?"
+        },
+        
+        {
+          "id":16,
+          "question_type": "Fill In",
+          "question": "Math.______() always returns a value less than 1.",
+          "correct_answer": "random",
+          "explanation": "Math.random() always returns a value less than 1."
+          
+        },
+        
+        {
+          "id":17,
+          "question_type": "MC",
+          "question": "A named element in a JavaScript program that is used to store and retrieve data is a _____.",
+          "options": {
+            "optiona": "method",
+            "optionb": "assignment operator",
+            "optionc": "variable",
+            "optiond": "None of the Above"
+          },
+          "correct_answer": "variable",
+          "explanation": "variable is a named element in JavaScript that is used to store and retrieve data"
+        },
+        
+        {
+          "id":18,
+          "question_type": "MC",
+          "question": "Which of the following is not true?",
+          "options": {
+            "optiona": "CSS is tightly integrated with the HTML structure",
+            "optionb": "CSS is part of dynamic HTML",
+            "optionc": "CSS stand for cascading style sheet",
+            "optiond": "CSS is for design control of the Web page appearance"
+          },
+          "correct_answer": "A",
+          "explanation": "CSS is tightly integrated with the HTML structure"
+        },
+        
+        {
+          "id":19,
+          "question_type": "Fill In",
+          "question": "The window.________.href property returns the URL of the current page.",
+          "correct_answer": "location",
+          "explanation": "The window.location.href property returns the URL of the current page."
+
+        },
+        
+        {
+          "id":20,
+         "question_type": "MC",
+          "question": "To define a style sheet, you need to",
+          "options": {
+            "optiona": "specify each property and its corresponding value",
+            "optionb": "associate property-value pairs to dedicated HTML tag(s).",
+            "optionc": "Both A and B",
+            "optiond": "None of the above"
+          },
+          "correct_answer": "C",
+          "explanation": "Both A and B"
+        }
+     ]
+}
