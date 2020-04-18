@@ -5,7 +5,7 @@
           "question_type": "MC",
           "question": "what does the alert() command do?",
           "options": {
-            "optiona": "It is built into the browser that opens up a dialogue box and displays your message,"
+            "optiona": "It is built into the browser that opens up a dialogue box and displays your message",
             "optionb": "It alerts the coder of a problem",
             "optionc": "It is a debugging tool",
             "optiond": "It alerts the user of a problem"
