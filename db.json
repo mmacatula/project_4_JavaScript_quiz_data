@@ -3,36 +3,36 @@
         {
            "id": 1,
           "question_type": "MC",
-          "question": "Which is the modulus operator?",
+          "question": "what does the alert() command do?",
           "options": {
-            "optiona": "--",
-            "optionb": "++",
-            "optionc": "**",
-            "optiond": "%"
+            "optiona": "It is built into the browser that opens up a dialogue box and displays your message,
+            "optionb": "It alerts the coder of a problem",
+            "optionc": "It is a debugging tool",
+            "optiond": "It alerts the user of a problem"
           },
-          "correct_answer": "D",
-          "explanation": "% is the modulus operator"
+          "correct_answer": "A",
+          "explanation": "It is built into the browser that opens up a dialogue box and displays your message"
         },
         
         {
           "id": 2,
           "question_type": "TF",
-          "question": "The external JavaScript file must contain the script tag.",
+          "question": "The external JavaScript file must contain the script tag",
           "options": {
             "optiona": "True",
             "optionb": "False"
           },
           "correct_answer": "B",
-          "explanation": "The external JavaScript file does not need to contain the script tag."
+          "explanation": "The external JavaScript file does not need to contain the script tag"
           
         },
         
         {
           "id":3,
           "question_type": "Fill In",
-          "question": "How do you create a function??",
-          "correct_answer": "function myFunction()",
-          "explanation": "The way to create a function is : function myFuntion()"
+          "question": "what is a javascript statement and what do they end in?",
+          "correct_answer": "a statement is like a sentence and they end in a colon",
+          "explanation": "a statement is like a sentence and they end in a colon"
         },
         
         {
@@ -62,15 +62,15 @@
         {
           "id":6,
           "question_type": "MC",
-          "question": "What is the correct syntax to declare a variable in JavaScript?",
+          "question": "whats the advantage of putting your script at the bottom of the page?",
           "options": {
-            "optiona": "declare myVar",
-            "optionb": "var myVar",
-            "optionc": "declare myVar",
-            "optiond": "state myVar"
+            "optiona": "it is a better way to organize code",
+            "optionb": "it allows the browser to load any html before running the javascript",
+            "optionc": "it reads the script to be read prior to the HTML",
+            "optiond": "it is the standard"
           },
           "correct_answer": "B",
-          "explanation": "The correct syntax to declare a variable in JavaScript is 'var myVar'"
+          "explanation": "it allows the browser to load any html before running the javascript"
         },
         
         {
@@ -142,15 +142,15 @@
         {
           "id":12,
           "question_type": "MC",
-          "question": "How do you write 'Hello World' in an alert box?",
+          "question": "which script allows you to add notes to the console to keep track of things",
           "options": {
-            "optiona": "alertbox('Hello World')",
+            "optiona": "console.log()",
             "optionb": "console('Hello World')",
             "optionc": "alert('Hello World')",
             "optiond": "consolelog('Hello World')"
           },
-          "correct_answer": "C",
-          "explanation": "'alert('Hello World')' is used to write 'Hellow World' in an alert box."
+          "correct_answer": "A",
+          "explanation": "console.log()"
         },
         
         {
@@ -169,9 +169,9 @@
         {
           "id":14,
           "question_type": "Fill In",
-          "question": "Alert(message), close() and reset() are JavaScript:",
-          "correct_answer": "Methods",
-          "explanation": "Methods is the correct answer"
+          "question": "what is a way of storing and keeping track of a program?",
+          "correct_answer": "Variable",
+          "explanation": "A variable"
         },
         
         {
@@ -185,24 +185,24 @@
         {
           "id":16,
           "question_type": "Fill In",
-          "question": "Math.______() always returns a value less than 1.",
-          "correct_answer": "random",
-          "explanation": "Math.random() always returns a value less than 1."
+          "question": "can a variable name start with a number?",
+          "correct_answer": "No",
+          "explanation": "A variable cannot name start with a number."
           
         },
         
         {
           "id":17,
           "question_type": "MC",
-          "question": "A named element in a JavaScript program that is used to store and retrieve data is a _____.",
+          "question": "what does the prompt() command do?",
           "options": {
-            "optiona": "method",
-            "optionb": "assignment operator",
-            "optionc": "variable",
+            "optiona": "allows you to prompt your user to input certain information",
+            "optionb": "displays a alert to the user",
+            "optionc": "prompts the coder to continue coding",
             "optiond": "None of the Above"
           },
-          "correct_answer": "variable",
-          "explanation": "variable is a named element in JavaScript that is used to store and retrieve data"
+          "correct_answer": "A",
+          "explanation": "allows you to prompt your user to input certain information"
         },
         
         {
@@ -222,24 +222,24 @@
         {
           "id":19,
           "question_type": "Fill In",
-          "question": "The window.________.href property returns the URL of the current page.",
-          "correct_answer": "location",
-          "explanation": "The window.location.href property returns the URL of the current page."
+          "question": "what does a combination string look like?",
+          "correct_answer": "string 1 + string 2",
+          "explanation": "string 1 + 'string 2"
 
         },
         
         {
           "id":20,
          "question_type": "MC",
-          "question": "To define a style sheet, you need to",
+          "question": "concatenation is the process of what?",
           "options": {
-            "optiona": "specify each property and its corresponding value",
-            "optionb": "associate property-value pairs to dedicated HTML tag(s).",
+            "optiona": "combining variables together",
+            "optionb": "combining strings together",
             "optionc": "Both A and B",
             "optiond": "None of the above"
           },
-          "correct_answer": "C",
-          "explanation": "Both A and B"
+          "correct_answer": "B",
+          "explanation": "combining strings together"
         }
      ]
 }
